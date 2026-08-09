@@ -66,5 +66,7 @@ object Build : BuildType({
         vcs {
             branchFilter = "+:<default>"
         }
+        vcs {
+        }
     }
 })
